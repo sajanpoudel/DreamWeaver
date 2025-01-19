@@ -1,6 +1,6 @@
 # Dream Weaver - Phase One: Development To-Do List
 
-Code Repo: Private for now
+Code Repo: Private for now, 
 Phase 1 Completed
 
 This document outlines the detailed tasks required for the first phase of development for the Dream Weaver application. This phase focuses on core functionality: dream capture, enhanced AI analysis (including pre-processing), user management, and basic sharing.
